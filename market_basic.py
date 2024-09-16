@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  7 18:22:42 2024
 
-@author: fisch
-"""
 import yfinance as yf
 from selenium import webdriver
 from selenium.webdriver.common.by import By
